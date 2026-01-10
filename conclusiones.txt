@@ -1,0 +1,13 @@
+1. Se ha realizado con los parámetro establecido para el reto 
+2. Se me complico por el Webdriver ya que se probo diferentes exploradores y no funcionaba, asi que consultando vi que se puede descargar el Webdriver manualmente y referenciarlo para que se abra el explorador y constinuar con las validaciones 
+3. Realizar la estructura del proyecto desde 0 también implica un tiempo considerable, se investigo por la documentacion y videos de youtube para capacitarse en el tema 
+4. Tanto Java como el patron de diseno screemplay manejan un estricto control de nomenclatura de los archivos,clases,variables para una mejor visualizacion y control del proyecto
+5. Creo que manejar Karate con Cucumber gradle y Gerkin es una manera muy robusca y eficiente de generar pruebas en apis y para generar reportes.
+6. Actualización de conocimientos para las nuevas herramientas y framework que se están utilizando en el medio , se abre mas posibles escenarios en los que este conocimiento se puede aplicar.
+
+Bibliografia 
+
+https://vaki.co/es/vaki/automationAPC
+https://www.youtube.com/@CentycCl
+https://serenity-bdd.github.io/docs/guide/driver_config#automatic-driver-downloads
+https://www.youtube.com/@juanpablogomezmonsalve1
